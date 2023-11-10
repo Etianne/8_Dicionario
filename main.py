@@ -4,8 +4,10 @@ notas = {
   "física": "7",
   "história": "8",
   "geografia": "9",
-  "biologia": "5"
+  "biologia": "6"
 }
+
+
 
 materia = input("Digite o nome da matéria: ")
 
